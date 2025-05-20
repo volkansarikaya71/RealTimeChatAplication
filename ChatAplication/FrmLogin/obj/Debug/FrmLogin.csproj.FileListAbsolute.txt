@@ -1,0 +1,15 @@
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.Form1.resources
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.csproj.GenerateResource.cache
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\BusinessLayer.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\BusinessLayer.pdb
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.csproj.Up2Date

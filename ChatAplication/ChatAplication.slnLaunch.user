@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Yeni Profil",
+    "Projects": [
+      {
+        "Path": "FrmLogin\\Chat.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ChatApi\\ChatApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

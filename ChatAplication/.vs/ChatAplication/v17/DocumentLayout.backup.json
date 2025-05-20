@@ -1,0 +1,589 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|c:\\users\\volkan\\desktop\\c# projelerim\\chat uygulamas\u0131\\chataplication\\frmlogin\\frmuserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmuserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmuserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmuserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmchathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmchathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmscreenshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmscreenshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmcreateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmcreateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmchathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmchathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\concrete\\messagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\messagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\models\\chatmessagecountandabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\chatmessagecountandabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\models\\listuserfriendviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\listuserfriendviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BusinessLayer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmscreenshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmscreenshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\bin\\Debug\\FrmLogin.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrmLogin\\bin\\Debug\\FrmLogin.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Chat||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmchathub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmchathub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\concrete\\filezilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\filezilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\models\\emoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\emoji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\models\\messageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\messageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\models\\messagecontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\messagecontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\concrete\\userfriendmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\userfriendmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\frmcreateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\frmcreateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\models\\messagegetbyidwithfriendid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\messagegetbyidwithfriendid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\abstract\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\abstract\\iuserfriendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iuserfriendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\frmlogin\\signalr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844134E3-0245-4CEF-AD56-6A90FB84F73A}|FrmLogin\\Chat.csproj|solutionrelative:frmlogin\\signalr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\businesslayer\\models\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01F4431-673F-4F44-8751-0EE157D573BD}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\usersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmChatHub.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmChatHub.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmChatHub.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmChatHub.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmLogin\\FrmChatHub.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:24:41.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmUpdateUser.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmUpdateUser.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmUpdateUser.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmUpdateUser.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmLogin\\FrmUpdateUser.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:47:48.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmScreenShare.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmScreenShare.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmScreenShare.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmScreenShare.cs",
+              "RelativeToolTip": "FrmLogin\\FrmScreenShare.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAE0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:37:47.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAnnouncement.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmAnnouncement.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmAnnouncement.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmAnnouncement.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmLogin\\FrmAnnouncement.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:14:35.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmUpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmUpdateUser.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmUpdateUser.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmUpdateUser.cs",
+              "RelativeToolTip": "FrmLogin\\FrmUpdateUser.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAADgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:50:07.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmUserDashboard.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmUserDashboard.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmUserDashboard.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmUserDashboard.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmLogin\\FrmUserDashboard.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T03:21:06.588Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUserDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmUserDashboard.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmUserDashboard.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmUserDashboard.cs",
+              "RelativeToolTip": "FrmLogin\\FrmUserDashboard.cs",
+              "ViewState": "AgIAAPQCAAAAAAAAAAAswEsDAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:25:30.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmCreateUser.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmCreateUser.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmCreateUser.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmCreateUser.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmLogin\\FrmCreateUser.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:18:05.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmChatHub.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmChatHub.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmChatHub.cs",
+              "RelativeToolTip": "FrmLogin\\FrmChatHub.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAOIBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:20:30.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MessageManager.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Concrete\\MessageManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\MessageManager.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Concrete\\MessageManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\MessageManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAWwEAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:32:08.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAnnouncement.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmAnnouncement.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmAnnouncement.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmAnnouncement.cs",
+              "RelativeToolTip": "FrmLogin\\FrmAnnouncement.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:50:37.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmLogin.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmLogin.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmLogin\\FrmLogin.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:34:13.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmForgotPassword.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmForgotPassword.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmForgotPassword.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmForgotPassword.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmLogin\\FrmForgotPassword.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:47:32.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmScreenShare.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmScreenShare.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmScreenShare.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmScreenShare.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmLogin\\FrmScreenShare.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:36:25.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatMessageCountAndAbout.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\ChatMessageCountAndAbout.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\ChatMessageCountAndAbout.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\ChatMessageCountAndAbout.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\ChatMessageCountAndAbout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:45:56.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmLogin.cs",
+              "RelativeToolTip": "FrmLogin\\FrmLogin.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwH0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:34:14.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListUserFriendViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\ListUserFriendViewModel.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\ListUserFriendViewModel.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\ListUserFriendViewModel.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\ListUserFriendViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:15:05.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmLogin.exe.config",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\bin\\Debug\\FrmLogin.exe.config",
+              "RelativeDocumentMoniker": "FrmLogin\\bin\\Debug\\FrmLogin.exe.config",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\bin\\Debug\\FrmLogin.exe.config",
+              "RelativeToolTip": "FrmLogin\\bin\\Debug\\FrmLogin.exe.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-23T05:13:33.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Chat",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\Chat.csproj",
+              "RelativeDocumentMoniker": "FrmLogin\\Chat.csproj",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\Chat.csproj",
+              "RelativeToolTip": "FrmLogin\\Chat.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T14:51:54.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BusinessLayer",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T06:46:21.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileZilla.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Concrete\\FileZilla.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\FileZilla.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Concrete\\FileZilla.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\FileZilla.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAWwD0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:23:54.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmChatHub.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmChatHub.Designer.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmChatHub.Designer.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmChatHub.Designer.cs",
+              "RelativeToolTip": "FrmLogin\\FrmChatHub.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAWwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T03:32:49.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\Result.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\Result.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:54:20.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MessageContex.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\MessageContex.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\MessageContex.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\MessageContex.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\MessageContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:23:46.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "FrmLogin\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\Properties\\Resources.resx",
+              "RelativeToolTip": "FrmLogin\\Properties\\Resources.resx",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAnwNQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-29T10:53:31.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Emoji.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\Emoji.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\Emoji.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\Emoji.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\Emoji.cs",
+              "ViewState": "AgIAAEEDAAAAAAAAAAAawFkDAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:14:35.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MessageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\MessageViewModel.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\MessageViewModel.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\MessageViewModel.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\MessageViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:36:28.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserFriendManager.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Concrete\\UserFriendManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\UserFriendManager.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Concrete\\UserFriendManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\UserFriendManager.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAEwGAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:32:14.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmCreateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmCreateUser.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\FrmCreateUser.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\FrmCreateUser.cs",
+              "RelativeToolTip": "FrmLogin\\FrmCreateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:18:06.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MessageGetByIdWithFriendId.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\MessageGetByIdWithFriendId.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\MessageGetByIdWithFriendId.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\MessageGetByIdWithFriendId.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\MessageGetByIdWithFriendId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:59:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Abstract\\IMessageService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Abstract\\IMessageService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:30:45.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUserFriendService.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Abstract\\IUserFriendService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IUserFriendService.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Abstract\\IUserFriendService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IUserFriendService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:30:52.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LogOut.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\LogOut.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\LogOut.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\LogOut.cs",
+              "RelativeToolTip": "FrmLogin\\LogOut.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T03:05:01.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:52:12.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Signalr.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\Signalr.cs",
+              "RelativeDocumentMoniker": "FrmLogin\\Signalr.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\FrmLogin\\Signalr.cs",
+              "RelativeToolTip": "FrmLogin\\Signalr.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T03:02:42.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UsersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\UsersViewModel.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\UsersViewModel.cs",
+              "ToolTip": "C:\\Users\\Volkan\\Desktop\\c# projelerim\\Chat Uygulamas\u0131\\ChatAplication\\BusinessLayer\\Models\\UsersViewModel.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\UsersViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:29:41.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

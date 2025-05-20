@@ -1,0 +1,247 @@
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\BusinessLayer.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\BusinessLayer.pdb
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\Chat.csproj.AssemblyReference.cache
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmLogin.resources
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\Chat.csproj.Up2Date
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmUserDashboard.resources
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Text.Json.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Memory.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Buffers.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.ValueTuple.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\BusinessLayer.dll.config
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Text.Json.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Memory.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Buffers.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.ValueTuple.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmCreateUser.resources
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmForgotPassword.resources
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\FluentFTP.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\FluentFTP.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmUpdateUser.resources
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Threading.Channels.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Threading.Channels.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmChatHub.resources
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Interop.MSVidCtlLib.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\Chat.csproj.ResolveComReference.cache
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\LibVLCSharp.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\LibVLCSharp.WinForms.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\LibVLCSharp.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\LibVLCSharp.WinForms.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.Asio.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.Core.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.Midi.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.WinForms.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.WinMM.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.Asio.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.Core.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.Midi.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.WinForms.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\NAudio.WinMM.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmScreenShare.resources
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Volkan\source\repos\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Core.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\BusinessLayer.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\FluentFTP.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\LibVLCSharp.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\LibVLCSharp.WinForms.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.Asio.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.Core.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.Midi.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.WinForms.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.WinMM.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Buffers.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Memory.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Text.Json.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Threading.Channels.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.ValueTuple.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\BusinessLayer.pdb
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\BusinessLayer.dll.config
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\FluentFTP.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\LibVLCSharp.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\LibVLCSharp.WinForms.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Core.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.Asio.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.Core.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.Midi.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.WinForms.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\NAudio.WinMM.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Buffers.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Memory.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Text.Json.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Threading.Channels.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.ValueTuple.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\Interop.MSVidCtlLib.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\Chat.csproj.AssemblyReference.cache
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\Chat.csproj.ResolveComReference.cache
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmChatHub.resources
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmCreateUser.resources
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmForgotPassword.resources
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmLogin.resources
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmScreenShare.resources
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmUpdateUser.resources
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmUserDashboard.resources
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\Chat.csproj.Up2Date
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\Volkan\Desktop\c# projelerim\Chat Uygulaması\ChatAplication\FrmLogin\obj\Debug\FrmLogin.FrmAnnouncement.resources
